@@ -10,7 +10,7 @@
         android:textColor="@color/White"
         android:background="@color/Black"
         android:padding="10dp"
-        android:text="23123">
+        android:text="1">
 
     </TextView>
 
@@ -22,7 +22,7 @@
         android:textColor="@color/White"
         android:background="@color/Black"
         android:padding="10dp"
-        android:text="23123">
+        android:text="1">
 
     </TextView>
 
